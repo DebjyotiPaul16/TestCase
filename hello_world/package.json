@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1",
+  "description": "simple hello world demo app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebjyotiPaul16/Chkfile.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Debjyoti",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.69.0"
+  }
+}
